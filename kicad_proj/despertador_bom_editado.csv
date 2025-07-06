@@ -1,0 +1,18 @@
+Reference,LCSC Part,Value,Footprint,Datasheet,Qty,LCSC Part
+"C1,C4",C15850,CL21A106KAYNNNE,easyeda2kicad:C0805,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21A106KAYNNNE_10uF-106-10-25V_C15850.html,2,C15850
+C2,C53134,CL21B473KBCNNNC,easyeda2kicad:C0805,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21B473KBCNNNC_47nF-473-10-50V_C53134.html,1,C53134
+C3,C43340,220uF 16V 6.3*7,easyeda2kicad:CAP-TH_BD6.3-P2.50-D1.0-FD,https://lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-Leaded_220uF-16V_C43340.html,1,C43340
+"C5,C6",C5451689,C0805X104K251T,easyeda2kicad:C0805,,2,C5451689
+D1,C54396,FJ5461AH red,easyeda2kicad:LED-SEG-TH_FJ5461AH,https://lcsc.com/product-detail/Led-Segment-Display_4Bit0-56Inch-red-digital-LED-RHOS_C54396.html,1,C54396
+LED1,C7470729,DY-324SVRC-H23-P-A4(FH),easyeda2kicad:LED-TH_BD5.8-P2.54-RD,,1,C7470729
+P1,C2319,PH-2A_C2319,easyeda2kicad:CONN-TH_2P-P2.00_PH-2A_C2319,https://lcsc.com/product-detail/PH-Connectors_PH-2A_C2319.html,1,C2319
+"Q1,Q2,Q3,Q4",C5236685,BS170FTA_C5236685,easyeda2kicad:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR,,4,C5236685
+Q5,C2150,SS8050_C2150,easyeda2kicad:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR,https://lcsc.com/product-detail/Transistors-NPN-PNP_SS8050-Y1-200-350_C2150.html,1,C2150
+"R1,R2,R3,R4,R5,R6,R7,R8,R13",C17630,0805W8F3300T5E,easyeda2kicad:R0805,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_330R-3300-1_C17630.html,9,C17630
+R9,C5205021,RM065-103(10K),easyeda2kicad:RES-ADJ-SMD_RM065-V1,,1,C5205021
+R10,C17415,0805W8F100JT5E,easyeda2kicad:R0805_NEW,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_10R-10R0-1_C17415.html,1,C17415
+"R11,R14",C17414,0805W8F1002T5E,easyeda2kicad:R0805,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_10KR-1002-1_C17414.html,2,C17414
+R12,C125626,GL5516,easyeda2kicad:RES-TH_L5.1-W4.3-P3.40-D0.5,https://lcsc.com/product-detail/Photoresistors_GL5516_C125626.html,1,C125626
+"SW1,SW2,SW3",C22363820,PS-7054DVB-6PN,easyeda2kicad:SW-TH_6P-L7.0-W7.0-P2.00,,3,C22363820
+U1,C85119,LM386G-S08-R,easyeda2kicad:SOP-8_L4.9-W3.9-P1.27-LS6.0-BL,https://lcsc.com/product-detail/Audio-OpAmps_LM386G-S08-R_C85119.html,1,C85119
+U2,C5692995,TMP36GT9Z(UMW),easyeda2kicad:TO-92-3_L4.8-W3.7-P2.54-L,,1,C5692995
