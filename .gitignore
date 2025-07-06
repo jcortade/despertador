@@ -30,3 +30,4 @@ fp-info-cache
 # wifi secretes
 wifi.py
 software/wifi.py
+BOM.txt
