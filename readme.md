@@ -37,7 +37,7 @@ PCB was designed with kiCAD.
 
 ![FreeCAD Screenshot 2](https://github.com/jcortade/despertador/blob/main/images/freecad02.png)
 
-![FreeCAD Screenshot 3](https://github.com/jcortade/despertador/blob/main/images/freecad02.png)
+![FreeCAD Screenshot 3](https://github.com/jcortade/despertador/blob/main/images/freecad03.png)
 
 
 Inspired by this project: https://github.com/thedalles77/Raspberry-Pi-Pico-LED-Alarm-Clock
