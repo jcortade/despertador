@@ -2,9 +2,9 @@
 
 This is an alarm clock based on ESP32 programmed in micropython. Its main features are:
 
-- Four digits seven segments display. Oldie but goldie.
+- Four digits seven segments display. Oldie but goodie.
 - Three push buttons for alarm time selection.
-- LM386 audio power amplifier with a 1W speaker.Plays Tetris tune.
+- LM386 audio power amplifier with a 1W speaker. It plays Tetris tune.
 - LDR used to power off the display in the dark.
 - PIR detector to see time in the dark and turn off the alarm.
 - "Dimmable" LED using PWM ouput.
